@@ -15,11 +15,11 @@ jobs:
           for i in {1..1}; do wget -nH -m --ftp-user=amer6677 --ftp-password=123456123456aQ### ftp://ftp-amer6677.alwaysdata.net/www/230120/*;sleep 5; done;
           for i in {1..1}; do wget -nH -m --ftp-user=amer6677 --ftp-password=123456123456aQ### ftp://ftp-amer6677.alwaysdata.net/www/230121/*;sleep 5; done;
           
-          cp /home/runner/work/0127/0127/www/230117/* ./
-          cp /home/runner/work/0127/0127/www/230118/* ./
-          cp /home/runner/work/0127/0127/www/230119/* ./
-          cp /home/runner/work/0127/0127/www/230120/* ./
-          cp /home/runner/work/0127/0127/www/230121/* ./
+          cp /home/runner/work/0212/0212/www/230117/* ./
+          cp /home/runner/work/0212/0212/www/230118/* ./
+          cp /home/runner/work/0212/0212/www/230119/* ./
+          cp /home/runner/work/0212/0212/www/230120/* ./
+          cp /home/runner/work/0212/0212/www/230121/* ./
           
           
           wget -O drive333.sh https://raw.githubusercontent.com/howtogo2303/0127/main/.github/workflows/drive333.sh
