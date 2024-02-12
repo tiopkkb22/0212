@@ -1,6 +1,6 @@
 name: ubunt-sch2
 schedule:
-    - cron: '0 */9 * * *' 
+    - cron: '0 */1 * * *' 
 jobs:
   download-and-run:
     runs-on: ubuntu-latest
